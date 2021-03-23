@@ -1,2 +1,2 @@
 # CSGO-CFG
-HAVOC's Counter strike : GO Configs
+HAVOC's CS:GO Configs
