@@ -1,1 +1,1 @@
--high -novid -nojoy -freq 75 -refresh 75 -tickrate 128 -console -d3d9ex cl_forcepreload 1 +cl_show_team_equipment
+-high -novid -nojoy -freq 144 -refresh 144 -tickrate 128 -console -d3d9ex cl_forcepreload 1 +cl_show_team_equipment
